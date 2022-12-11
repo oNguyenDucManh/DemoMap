@@ -2,7 +2,7 @@
   "data" : {
     "area" : 1,
     "walkDogTime" : 12,
-    "awardToken" : 1,
+    "awardToken" : 12,
     "logId" : 447074,
     "walkDogKm" : 5.40,
     "status" : 0
