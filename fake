@@ -1,0 +1,14 @@
+{
+  "data" : {
+    "area" : 1,
+    "walkDogTime" : 12,
+    "awardToken" : 0.001,
+    "logId" : 447074,
+    "walkDogKm" : 5.40,
+    "status" : 0
+  },
+  "success" : true,
+  "code" : 0,
+  "message" : "SUCCESS",
+  "total" : null
+}
