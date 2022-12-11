@@ -10,5 +10,5 @@
   "success" : true,
   "code" : 0,
   "message" : "SUCCESS",
-  total: null
+  "total": null
 }
